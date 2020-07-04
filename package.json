@@ -2,7 +2,7 @@
   "name": "global-reducer",
   "version": "1.0.0",
   "description": "Small library for quickly creating and using global stores using only React",
-  "main": "index.tsx",
+  "main": "lib/index.js",
   "scripts": {
     "build": "tsc"
   },

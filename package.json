@@ -1,0 +1,24 @@
+{
+  "name": "global-reducer",
+  "version": "1.0.0",
+  "description": "Small library for quickly creating and using global stores using only React",
+  "main": "index.tsx",
+  "scripts": {
+    "build": "tsc"
+  },
+  "peerDependencies": {
+    "@types/react": "^16.9.36",
+    "react": "^16.13.1",
+    "typescript": "^3.7.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "."
+  },
+  "keywords": [
+    "react",
+    "reducer"
+  ],
+  "author": "chris-anderson67",
+  "license": "ISC"
+}

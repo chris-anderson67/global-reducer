@@ -1,6 +1,6 @@
 {
   "name": "global-reducer",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Small library for quickly creating and using global stores using only React",
   "main": "dist/index.js",
   "scripts": {

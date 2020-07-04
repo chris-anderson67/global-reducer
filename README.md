@@ -1,5 +1,5 @@
 # global-reducer
-Small React library to quickly create and use global stores using context and hooks.
+Small React library to quickly create and use global reducer-based stores using only context and hooks.
 
 ## Install
 ```
